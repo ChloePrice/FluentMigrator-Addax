@@ -1,0 +1,6 @@
+{
+    "MigrateLocation": "{Path to FluentMigrator}\\tools\\Migrate.exe",
+    "MigrationsDll": "{Path to your project class library migrations project}\\bin\\Debug\\Migrations.dll",
+    "DbType": "{Pick in : (Db2, DotConnectOracle, FireBird, Hana, Jet, Mysql, Oracle, OracleManaged, Postgres, SQLite, SqlServer)}";",
+    "ConnectionString": '{a classic connection string like : "Data Source=dev.company.com;Initial Catalog=dbname;User ID=sa;Password=" }'
+}

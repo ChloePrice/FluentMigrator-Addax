@@ -1,0 +1,20 @@
+{
+  "name": "addax",
+  "version": "1.0.0",
+  "description": " A simple command line wrapper for FluentMigrator",
+  "main": "cli.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "fluentMigrator",
+    "migrations",
+    ".NET",
+    "C#"
+  ],
+  "author": "Raison",
+  "license": "MIT",
+  "dependencies": {
+    "vorpal": "^1.11.2"
+  }
+}
